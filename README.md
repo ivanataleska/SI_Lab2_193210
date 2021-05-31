@@ -33,6 +33,10 @@ If(hr==24 && min==0 &&sec==0)
 
 ![s4](https://user-images.githubusercontent.com/80771458/120225253-2ee19600-c245-11eb-9829-0eb491bc71fc.png)
 
+Тест случаи според Every Branch критериумот
+
+
+
 
 
 
