@@ -18,5 +18,8 @@ If(hr<0 || hr>24)
 ![s11](https://user-images.githubusercontent.com/80771458/120223225-90076a80-c241-11eb-977c-d638622a366a.png)
 
 If(min<0 || min>59)
+![s22](https://user-images.githubusercontent.com/80771458/120223305-b200ed00-c241-11eb-8eb1-1ee4ddf874c9.png)
+
+If(sec>=0 && sec<=59)
 
 
