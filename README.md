@@ -21,7 +21,7 @@ If(hr<0 || hr>24)
 
 If(min<0 || min>59)
 
-![s2](https://user-images.githubusercontent.com/80771458/120225251-2e48ff80-c245-11eb-96d0-9ef2fe80709c.png)
+![s22](https://user-images.githubusercontent.com/80771458/120225363-62bcbb80-c245-11eb-9856-34c52ba5bad0.png)
 
 
 If(sec>=0 && sec<=59)
