@@ -15,5 +15,8 @@ Control Flow Graph
 3.	Според друга формула: V(G) = P + 1 V(G) = 7 + 1 = 8 -Каде што P е бројот на предикатни јазли, кои во CFG се B2, C, D, G, H, J, M.
 Multiple Condition
 If(hr<0 || hr>24)
+![s1](https://user-images.githubusercontent.com/80771458/120223075-4880de80-c241-11eb-829e-bde9c1fe0bc2.png)
+
+If(min<0 || min>59)
 
 
