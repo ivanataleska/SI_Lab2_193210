@@ -17,21 +17,22 @@ Multiple Condition
 
 If(hr<0 || hr>24)
 
-![s1](https://user-images.githubusercontent.com/80771458/120224380-a0b8e000-c243-11eb-9313-962d792c7c72.png)
+![s1](https://user-images.githubusercontent.com/80771458/120225248-2db06900-c245-11eb-9b78-d446faa928b5.png)
 
 If(min<0 || min>59)
 
-![s2](https://user-images.githubusercontent.com/80771458/120224382-a1517680-c243-11eb-830d-76192ff4cc98.png)
+![s2](https://user-images.githubusercontent.com/80771458/120225251-2e48ff80-c245-11eb-96d0-9ef2fe80709c.png)
 
 
 If(sec>=0 && sec<=59)
 
-![s3](https://user-images.githubusercontent.com/80771458/120224384-a1517680-c243-11eb-8ee7-a5a457943e62.png)
+![s3](https://user-images.githubusercontent.com/80771458/120225252-2ee19600-c245-11eb-925d-767ce7c3bca1.png)
 
 
 If(hr==24 && min==0 &&sec==0)
 
-![s4](https://user-images.githubusercontent.com/80771458/120224378-a0204980-c243-11eb-86c9-5b47b6df5630.png)
+![s4](https://user-images.githubusercontent.com/80771458/120225253-2ee19600-c245-11eb-9829-0eb491bc71fc.png)
+
 
 
 
