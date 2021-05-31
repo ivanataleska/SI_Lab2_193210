@@ -24,6 +24,6 @@ If(sec>=0 && sec<=59)
 ![ss3](https://user-images.githubusercontent.com/80771458/120223403-d52b9c80-c241-11eb-8078-e0dfcc221a62.png)
 
 If(hr==24 && min==0 &&sec==0)
-
+![ss4](https://user-images.githubusercontent.com/80771458/120223563-0c9a4900-c242-11eb-86af-bef1c2476be7.png)
 
 
